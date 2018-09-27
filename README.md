@@ -21,3 +21,8 @@ Decided on bootstrap because it comes with more "out of the box". I would have t
 1. Download Bootstrap from [getbootstrap.com](https://getbootstrap.com/docs/4.1/getting-started/download/). 
 2. Add css and js folders to new repo.
 3. Create HTML 
+
+Started using [emmet codes](https://docs.emmet.io/) to create HTML -- super slick. These are already in vscode. For example:
+```
+html>head+body
+```

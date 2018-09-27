@@ -1,9 +1,12 @@
 
-Todo:
+Educate:
   ✔ Create HTML Skeleton @done(18-09-27 17:39)
   ✔ Add bootstrap classes @done(18-09-27 17:39)
   ☐ get navbar right aligned
   ☐ get collapse / expand to work (navbar)
-  ☐ fix button spacing and color in navbar
-  ☐ fix button alignment in jtron 
+  ✔ fix button spacing and color in navbar @done(18-09-27 18:27)
+  ✔ fix button alignment in jtron @done(18-09-27 18:27)
   ✔ fix button font in jumbotron @done(18-09-27 17:45)
+  ☐ fix padding/margins in navbar buttons
+Login:
+  ☐ create login page skeleton
