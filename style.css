@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Francois One', sans-serif;
+}
+.bg-sfprimary {
+    background-color: #f60;
+}
+.bg-sfblue {
+    background-color:#00AAFF;
+}
+.bg-sfgreen {
+    background-color:#86DF00;
+}
+.bg-sfpink {
+    background-color:#FF0090;
+}
+.bg-sfyellow {
+    background-color: #ffae00;
+}
+
+.btn-secondary {
+color: #fff;
+background-color: #ffae00;
+border-color: #cc5200;
+}
+
+.btn-secondary:hover {
+color: #fff;
+background-color: #e90;
+border-color: #cc5200;
+}
+
+  
