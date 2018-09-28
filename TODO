@@ -8,5 +8,6 @@ Educate:
   ✔ fix button alignment in jtron @done(18-09-27 18:27)
   ✔ fix button font in jumbotron @done(18-09-27 17:45)
   ☐ fix padding/margins in navbar buttons
+  ☐ make jtron buttons responsive
 Login:
   ☐ create login page skeleton
